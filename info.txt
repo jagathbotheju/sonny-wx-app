@@ -1,0 +1,14 @@
+stepzen
+=======
+- npm install -g stepzen
+- create folder stepzen
+- stepzen login (provide username and key)
+- stepzen init
+- stepzen import curl <api url>
+- stepzen start
+
+apollo client (creating connection to backend)
+=============
+- npm install @apollo/client graphql
+- create file in root, apollo-client.ts
+
